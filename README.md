@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kyoungje
 - 👀 I’m interested in SW development.
-- 🌱 I’m currently learning Python, modern C++, Linux and so on
+- 🌱 I’m currently learning Systems (Hypervisor, Linux), Python, modern C++ and so on
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me : kyoungje@gmail.com
 
