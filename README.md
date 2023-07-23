@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me : kyoungje@gmail.com
 
-For the ACRN hypervisor to work on **Dunamis MCX-220 (Advantech UNO-148)**, the source code related to the PCI base in the hypervisor and EDK2 should be modified.
+For the ACRN hypervisor to work on **Dunamis MCX-220 (Advantech UNO-148, Tigerlake)**, the source code related to the PCI base in the hypervisor and EDK2 should be modified.
 Please refer to the following branches of each repo.
 - https://github.com/kyoungje/acrn-edk2/tree/dunamis_cm220_tgl
 - https://github.com/kyoungje/acrn-hypervisor/tree/dunamis_cm220_tgl
