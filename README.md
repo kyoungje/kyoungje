@@ -1,8 +1,13 @@
 - 👋 Hi, I’m @kyoungje
-- 👀 I’m interested in SW development.
-- 🌱 I’m currently learning Systems (Hypervisor, Linux), Python, modern C++ and so on
+- 👀 I’m interested in all kinds of SW development.
+- 🌱 I’m currently learning Systems Software (e.g., Hypervisor, Linux, RTOS), Python, modern C++, and so on
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me : kyoungje@gmail.com
+
+For the ACRN hypervisor to work on **Dunamis MCX-220 (Advantech UNO-148)**, the source code related to the PCI base in the hypervisor and EDK2 should be modified.
+Please refer to the following branches of each repo.
+- https://github.com/kyoungje/acrn-edk2/tree/dunamis_cm220_tgl
+- https://github.com/kyoungje/acrn-hypervisor/tree/dunamis_cm220_tgl
 
 <!---
 kyoungje/kyoungje is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
