@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kyoungje
 - 👀 I’m interested in all kinds of SW development.
-- 🌱 I’m currently learning Systems Software (e.g., Hypervisor, Linux, RTOS), Python, modern C++, and so on
+- 🌱 I’m currently learning Systems Software (e.g., Hypervisor, Linux, RTOS), AI/ML, Python, modern C++, and so on
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me : kyoungje@gmail.com
 
