@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @kyoungje
-- 👀 I’m interested in all kinds of SW evelopment in Edge or IoT.
+- 👀 I’m interested in all kinds of SW development in Edge or IoT.
 - 🌱 I’m currently learning Systems Software (e.g., Hypervisor, Linux, RTOS), AI/ML, Rust, Python, modern C++, and so on
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me : kyoungje@gmail.com
