@@ -3,6 +3,10 @@
 - 🌱 I’m currently working mainly on systems software (e.g., Hypervisor, Linux, RTOS) and studying SOTA technologies like AI/ML, Rust, Python, modern C++, and so on
 - 📫 How to reach me: kyoungje@gmail.com
 
+# ✨ LSTM Autoencoder Anomaly Detection
+Communication error detection through WMX time-series data.
+- [https://github.com/kyoungje/SystemInfoDemo](https://github.com/kyoungje/WMXAnomalyDetection)
+  
 # Qt QML + gRPC + Gradio UI
 For those interested in Qt, gRPC, and Gradio technologies, here is an excellent demo program to help you understand the technologies easily.
 - https://github.com/kyoungje/SystemInfoDemo
