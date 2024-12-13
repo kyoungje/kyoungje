@@ -5,7 +5,7 @@
 
 # ✨ LSTM Autoencoder Anomaly Detection
 Communication error detection through WMX time-series data.
-- [https://github.com/kyoungje/SystemInfoDemo](https://github.com/kyoungje/WMXAnomalyDetection)
+- https://github.com/kyoungje/WMXAnomalyDetection
   
 # Qt QML + gRPC + Gradio UI
 For those interested in Qt, gRPC, and Gradio technologies, here is an excellent demo program to help you understand the technologies easily.
